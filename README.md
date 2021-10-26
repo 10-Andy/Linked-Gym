@@ -54,13 +54,28 @@ a full-body workout.
 <a></a>
 
 ### **User Goals**
-
-* I want to have a clear dashboard, easy to navigate. 
-* The Workout plans should be sorted into muscle group categories. 
-* I want The workout plans to have six exercises, a name and a time duration field.
-* I want to be able to search for workouts.
-* The website has to be easy to use and easy to update information
-* Visually appealing website
 * The website has to work well on all kinds of devices such as mobile phones, tablets and desktops.
+* I want The workout plans to have six exercises, a name and a time duration field.
+* The website has to be easy to use and easy to update information
+* The Workout plans should be sorted into muscle group categories. 
+* I want to have a clear dashboard, easy to navigate.
+* I want to be able to search for workouts.
+* Visually appealing website
 
 [Back to Top](#table-of-contents)
+
+<a></a>
+
+### **User Stories**
+
+* As a user, I would like to register for the website where I can have my personal environment.
+* As a user, I would like to have a dashboard where I can see all the plans posted. 
+* As a user, I want to log in after creating an account and see my information.
+* As a user, I want to be able to add notes to the log whenever relevant.  
+* As a user, I want to be able to add as many workout plans as I want. 
+* As a user, I want to be able to search body specific workout plans. 
+* As a user, I would like to share my workout plans with other users. 
+* As a user, I want to have the possibility to delete a workout plan.
+* As a user, I want the process to add, edit, delete info to be easy. 
+* As a user, I want to be able to edit my workout plan as needed.
+* As a user, I want the website to be easy to use. 
