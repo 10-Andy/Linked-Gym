@@ -45,4 +45,22 @@ a full-body workout.
     * [Heroku Deployment](#heroku-deployment)
 * [Credits](#credits)
 
+--- 
 
+<a name="ux"></a>
+
+## **UX**
+
+<a></a>
+
+### **User Goals**
+
+* I want to have a clear dashboard, easy to navigate. 
+* The Workout plans should be sorted into muscle group categories. 
+* I want The workout plans to have six exercises, a name and a time duration field.
+* I want to be able to search for workouts.
+* The website has to be easy to use and easy to update information
+* Visually appealing website
+* The website has to work well on all kinds of devices such as mobile phones, tablets and desktops.
+
+[Back to Top](#table-of-contents)
