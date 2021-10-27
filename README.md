@@ -21,7 +21,6 @@ a full-body workout.
 * [UX](#ux)
     * [User Goals](#user-goals)
     * [User Stories](#user-stories)
-    * [Site Owners Goals](#site-owners-goals)
     * [User Requirements and Expectations](#user-requirements-and-expectations)
         * [Requirements](#requirements)
         * [Expectations](#expectations)
@@ -79,3 +78,30 @@ a full-body workout.
 * As a user, I want the process to add, edit, delete info to be easy. 
 * As a user, I want to be able to edit my workout plan as needed.
 * As a user, I want the website to be easy to use. 
+
+[Back to Top](#table-of-contents)
+
+<a></a>
+
+### **User Requirements and Expectations**
+
+<a></a>
+
+#### Requirements
+
+* Easy to navigate the webpage.
+* Appealing dashboard with a functional overview.
+* Easy way to add a log to the dashboard.
+* Ability to edit and delete existing workout plans.
+
+<a></a>
+
+#### Expectations
+
+* Easy to search for different types of workout plans.
+* All relevent information shown on the main dashboard.
+* Easy to add, search, edit and delete my plans. 
+
+[Back to Top](#table-of-contents)
+
+<a></a>
