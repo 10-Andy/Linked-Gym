@@ -28,7 +28,7 @@ a full-body workout.
         * [Fonts](#fonts)
         * [Colors](#colors)
         * [Structure](#structure)
-* [Wireframes and Flowcharts](#wireframes-and-flowcharts)
+* [Wireframes and Database Structure](#wireframes-database-structure)
     * [Wireframes](#wireframes)
     * [Database Structure](#database-structure)
 * [Features](#features)
@@ -105,3 +105,61 @@ a full-body workout.
 [Back to Top](#table-of-contents)
 
 <a></a>
+
+## **Design Choices**
+
+<a></a>
+
+### **Fonts**
+
+<a></a>
+
+### **Colors**
+
+<a></a>
+
+### **Structure**
+
+
+[Back to Top](#table-of-contents)
+
+--- 
+<a></a>
+
+## **Wireframes and Database Structure**
+
+### **Wireframes**
+
+### **Database Structure**
+
+---
+
+<a></a>
+
+## **Features**
+
+<a></a>
+
+### **Existing Features**
+
+* Ability Sign-In, Out and Registration functionality.
+* Ability to add multiple workout plans.
+* Ability to search workout plans by muscle group. 
+* Create: Create your user name and log a workout plan. 
+* Read: View all workouts posted on the main page.
+* Update/Edit: Ability to edit previous logged workout plans.
+* Delete: Remove workout plans as needed.
+
+<a></a>
+
+### **Features to be implemented**
+
+* Allow the user to upload footage of workouts to share with other users.
+* Have a better home page for the user, so when you search for a workout plan it directs you to their homepage, showing you all their previous videos.
+* Expand search function so user can filter on more keywords except for muscle group.
+* Add a record section of when and what workouts you've done to look at on a later date.
+* Add a chat area for users to talk to one another.
+* Add area for users to add profile pictures.
+* Add google maps to allow users to show where they are from.
+* Have a 'Lost Password' functionality.
+* Include a confirmed password to make sure the user has chosen the password they wanted. 
