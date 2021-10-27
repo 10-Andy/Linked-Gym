@@ -36,8 +36,7 @@ a full-body workout.
     * [Features to be implemented](#features-to-be-implemented)
 * [Technologies used](#technologies-used)
     * [Languages](#languages)
-    * [Libraries and Frameworks](#libraries-and-frameworks)
-    * [Tools](#tools)
+    * [Tools, Libraries and Frameworks](#tools-libraries-and-frameworks)
 * [Testing](#testing)
 * [Deployment](#deployment)
     * [Deployment](#deployment)
@@ -112,15 +111,15 @@ a full-body workout.
 
 <a></a>
 
-### **Fonts**
+#### **Fonts**
 
 <a></a>
 
-### **Colors**
+#### **Colors**
 
 <a></a>
 
-### **Structure**
+#### **Structure**
 In order to create an overall structure for my website, I have chosen to use Materialize. The CSS and Javascript elements offered by Materialize make it easy to keep a good structure for my page. I chose Materialize mainly because of the variety of features they offer such as a date picker, collapsable menus and responsive buttons.
 
 [Back to Top](#table-of-contents)
@@ -179,12 +178,31 @@ In order to create an overall structure for my website, I have chosen to use Mat
 <a></a>
 
 ### **Languages**
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+* [Python](https://www.python.org/)
+
 
 <a></a>
 
-### **Libraries and Frameworks**
+### **Tools, Libraries and Frameworks**
 
-### **Tools**
+* [GitHub](https://github.com/)
+* [Heroku](https://www.heroku.com/)
+* [Balsamic](https://balsamiq.com/wireframes/)
+* [W3C HTML Validation Service](https://validator.w3.org/)
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+* [techsini](http://techsini.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [PyMongo](https://api.mongodb.com/python/current/tutorial.html)
+* [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
+* [Youtube](https://www.youtube.com/)
+* [Font Awesome](https://fontawesome.com/)
+* [Materialize](https://materializecss.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [jQuery](https://jquery.com/)
 
 [Back to Top](#table-of-contents)
 
