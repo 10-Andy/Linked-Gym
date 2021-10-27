@@ -61,8 +61,6 @@ a full-body workout.
 * I want to be able to search for workouts.
 * Visually appealing website
 
-[Back to Top](#table-of-contents)
-
 <a></a>
 
 ### **User Stories**
@@ -80,6 +78,8 @@ a full-body workout.
 * As a user, I want the website to be easy to use. 
 
 [Back to Top](#table-of-contents)
+
+---
 
 <a></a>
 
@@ -104,6 +104,8 @@ a full-body workout.
 
 [Back to Top](#table-of-contents)
 
+---
+
 <a></a>
 
 ## **Design Choices**
@@ -119,7 +121,7 @@ a full-body workout.
 <a></a>
 
 ### **Structure**
-
+In order to create an overall structure for my website, I have chosen to use Materialize. The CSS and Javascript elements offered by Materialize make it easy to keep a good structure for my page. I chose Materialize mainly because of the variety of features they offer such as a date picker, collapsable menus and responsive buttons.
 
 [Back to Top](#table-of-contents)
 
@@ -131,6 +133,8 @@ a full-body workout.
 ### **Wireframes**
 
 ### **Database Structure**
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -163,3 +167,44 @@ a full-body workout.
 * Add google maps to allow users to show where they are from.
 * Have a 'Lost Password' functionality.
 * Include a confirmed password to make sure the user has chosen the password they wanted. 
+
+[Back to Top](#table-of-contents)
+
+---
+
+<a></a>
+
+## **Technologies used**
+
+<a></a>
+
+### **Languages**
+
+<a></a>
+
+### **Libraries and Frameworks**
+
+### **Tools**
+
+[Back to Top](#table-of-contents)
+
+---
+
+<a></a>
+
+## **Testing**
+
+
+
+
+
+
+
+[Back to Top](#table-of-contents)
+
+---
+
+<a></a>
+
+## **Deployment**
+
