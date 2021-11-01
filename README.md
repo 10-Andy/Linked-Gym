@@ -112,10 +112,11 @@ a full-body workout.
 <a></a>
 
 #### **Fonts**
-
+I have used Google Fontsto select the fonts for this projeect. I have used are Merriweather Sans And Lato. 
 <a></a>
 
 #### **Colors**
+
 
 <a></a>
 
